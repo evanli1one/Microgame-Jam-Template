@@ -97,3 +97,89 @@ Received Import Request.
 Start importing Assets/Scripts using Guid(b06039bf368d8f94f86fd98c8bd05f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea77297df33befcfc0cf04e9c9c2ea99') in 0.001814 seconds 
   Import took 0.006033 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002970 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.566 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2074 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.8 MB.
+System memory in use after: 174.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2525.
+Total: 5.074383 ms (FindLiveObjects: 0.290895 ms CreateObjectMapping: 0.090578 ms MarkObjects: 4.665937 ms  DeleteObjects: 0.025742 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1052.688815 seconds.
+  path: Assets/Scripts/GameController/GameControllerDevelop.prefab
+  artifactKey: Guid(50c186f376fa2f741a9ee56e3821b2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameController/GameControllerDevelop.prefab using Guid(50c186f376fa2f741a9ee56e3821b2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f808e18cc583c4d454337738f163d1f4') in 1.417554 seconds 
+  Import took 1.422291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Scripts/GameController/timer_juice.png
+  artifactKey: Guid(09192dbcddcb886479bac951d96a93d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameController/timer_juice.png using Guid(09192dbcddcb886479bac951d96a93d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016c9817ccc1b73a6d9d91b9b6c42102') in 1.310473 seconds 
+  Import took 1.313809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Scripts/GameController/SliderController.cs
+  artifactKey: Guid(b579254b91675174f96b74498e84a02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameController/SliderController.cs using Guid(b579254b91675174f96b74498e84a02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca2881457ba4b21621e0f3c2d605bb05') in 3.938470 seconds 
+  Import took 3.941971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Scripts/GameController/timer_top.png
+  artifactKey: Guid(c90a50402e0c73c4a9479583683c88b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameController/timer_top.png using Guid(c90a50402e0c73c4a9479583683c88b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcbcf16e42c3ed535d0df87521287f9c') in 0.010845 seconds 
+  Import took 0.014365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Scripts/GameController/timer_back.png
+  artifactKey: Guid(744b2df9fff15c9428292af34c2dab48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameController/timer_back.png using Guid(744b2df9fff15c9428292af34c2dab48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41743dd693eeadbe4454a3e50918422f') in 0.021208 seconds 
+  Import took 0.025110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Scripts/GameController/Singleton.cs
+  artifactKey: Guid(0cf73a306cf926630a0131b825199b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameController/Singleton.cs using Guid(0cf73a306cf926630a0131b825199b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73e714fa88b002625265051706133326') in 0.005927 seconds 
+  Import took 0.009856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Scripts/GameController/Timer.prefab
+  artifactKey: Guid(89115dc9ccc86014191ffad63e6f5bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameController/Timer.prefab using Guid(89115dc9ccc86014191ffad63e6f5bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ea5c1a517a22460f8eb40693aa7224') in 0.006770 seconds 
+  Import took 0.010243 seconds .
+
